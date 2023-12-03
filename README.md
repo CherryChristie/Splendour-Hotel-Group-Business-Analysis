@@ -8,6 +8,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
+- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 - [Limitation](#limitation)
 - [Reference](#reference)
@@ -125,18 +126,12 @@ The analysis results are summarized as follows:
 
 - Finding out information relating to Booking Patterns:
 During the first quarter of the year January, February March ,  and there is a lower booking rate during the second quarter of the year. And the highest booking year was 2016.
-![12d7cce05061ee9e56753f096e404fb](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/ac4d5ce5-7383-4ae5-bcdf-81cae846b639)
-
 
 - Customer Behavior Analysis:
 The distribution channel  that contributes the most bookings is the  'Online Travel Agent'. The average daily rate is closely tied between the 'Online Trave Agent' and 'Direct'. and mouch lower in the coporate and undefined channel. The countries of origin with the highest number of bookingas are mostly European countries ranging from Portugal, United Kingdom , France, Spain and  Germany and these countries contributes alot to the revenue.
-![4fe3fb09cc7ae76b92adfd0506d7f76](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/9adf6883-8069-478f-b8d7-5ce8880c9a2e)
-
 
 - Cancellation Analysis:
 There is a high cancellation rate in January, October and Febuary, and there are higher bookings during these period, and the customer's that paid with the non- refundable deposit type have a high rate of cancelling the booking. There is also a high cancellation rate among the Transient Customer type who booked through the Online Booking Agent. We also notice  a huge revenue loss within the transient customer type and the transient- type, also in the online travel agent booking channel.We can also predict that the higher  the lead time the higher tha chances of the booking being cancelled  will be.
-![91fd355d61b611a827937dc17650234](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/4539ca17-926d-46bd-90ca-2c3c10330b51)
-
 
 - Revenue Optimization:
 The first and fourth quarter of the year had a high revenue flow and checking  monthly we noticed high revenue flow in January, Febuary, March and then July. With yearly analysis we discovered the hotel had a high revenue inflow in 2016 and the revenue in 2017 was lower than 2016 with a loss of $6,359,445.93. For the ADR the transient customer type that booked through the online travel agent has the highest ADR, also  other customer types that booked through the online booking channel  have a high ADR, but the coporate booking channel has much lower ADR in every customer type bookings.
@@ -144,23 +139,22 @@ The first and fourth quarter of the year had a high revenue flow and checking  m
 
 - Geographical Analysis:
 Distribution of guest is higher in most european countries compared to non- european countries as the first ten countries with high revenue are european countries with Portugal, United Kingdom,France, Spain and Germany as top five. The extended stay are common among the countries with higher bookings, but the top then included two non european countries which are brazil, china and united states.
-![85fe72ade94f6c0c3a8af8c21d6229a](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/4f867865-33cb-405d-84f7-e1862be8014f)
-
 
 - Operational Efficiency:
 The average lenght of stay is 3days and apart from the corporate booking channe, the rest all met the threshold of the average lenght of stay which is 3 days. Within the customer type, it is quite interesting to see that the contract customer type has average stay of 5 and the transient customer type (with the highest booking record) has an average lenght of stay of 3. For the checkout analysis , we discovered that there are more checkouts on sundays and fridays, there is a trend of high checkouts in the 3rd quarter of the year, specifically during august and july respectively.
 ![a5f43cd6f263e058e4c311b23844167](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/d15367af-a70f-4415-bba2-fdb002b513a4)
-
 
 - Impact of Deposit Types:
 we discover that even though the 'No deposit'has high cancellatiom rate, but comparing it with the non refundable and the number of people that booked with
 this deposit type, the presence of the non refundable increases the likelihood of cancellation but it does not have any revenue loss impact. But we also discovered that all the customer types prefers the no deposit deposit type followed by non refundable, therefore the high rate of choosing the no deposit policy will always result to high cancellation rate.
 ![306b80b0d747b639b1e1fcd2037c9cb](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/1eeab393-c809-4932-b83a-98de6bad57b4)
 
-
 - Time-to-Event Analysis:
 we can see that bookings made in advance of 60+ days tend to generate more  revenue  but we also noticed that the cancellation rate in this advanced bookings are very high, whereas last minute bookings have lower cancellation rate. however for the customer satisfaction we discovered that bookings made closerto the date or with closer lead time might have higher customer satisfaction as it  has lower revenue loss and lower cancellation and moderate revenue.
 ![08ecbd1fd2c9484ac8fe8ebcb8989af](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/b4d186d0-2d35-4282-8ce0-2884b677642b)
+
+### Dashboard
+![10382792753f948cd4a0ba256adfd7f](https://github.com/CherryChristie/Splendour-Hotel-Group-Business-Analysis/assets/148567375/6b637e4a-a3e2-4726-a815-7c2481fa7106)
 
 
 ### RECOMMENDATION
